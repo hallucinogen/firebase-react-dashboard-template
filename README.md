@@ -26,6 +26,7 @@ _Developing from Gitpod (Optional)_
 ## Setup
 
 - Press the "Use this template" on the top of this repository's GitHub page.
+- Put your Firebase config in `src/firebase.ts`
 - Run `pnpm install` (or `npm install` if you don't use `npm`).
 - `pnpm dev` for development.
 - Use `pnpm test` to run tests.
