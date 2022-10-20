@@ -1,0 +1,17 @@
+.env
+
+# Firebase stuff
+.firebaserc
+.firebase
+firebase-debug.log
+
+# Build
+.eslintcache
+.pnpm-debug.log
+/node_modules/
+coverage/
+dist/
+tsconfig.tsbuildinfo
+
+# vim
+*.swp
