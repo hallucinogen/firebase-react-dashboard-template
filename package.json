@@ -1,10 +1,10 @@
 {
-  "name": "@hallucinogen/ads-dsp",
+  "name": "@hallucinogen/firebase-react-dashboard-template",
   "version": "0.0.1",
   "author": "Listiarso Wastuargo <hallucinogenplus@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git@github.com:hallucinogen/ads-dsp.git"
+    "url": "git@github.com:hallucinogen/firebase-react-dashboard-template.git"
   },
   "type": "module",
   "engines": {
