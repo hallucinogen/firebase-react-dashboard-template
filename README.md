@@ -17,7 +17,8 @@ This template is an opinionated React starter pack to build any dashboard using 
 
 _The UI_
 
-<img width="1782" alt="Screen Shot 2022-10-16 at 6 16 07 PM" src="https://user-images.githubusercontent.com/681920/196032445-fe61485e-40c2-4932-a89d-274fc26657e3.png">
+<img width="1792" alt="Screen Shot 2022-10-20 at 5 00 06 PM" src="https://user-images.githubusercontent.com/681920/196919586-5f069e72-af5b-4988-ac55-bbe0f82d4ab2.png">
+
 
 _Developing from Gitpod (Optional)_
 
